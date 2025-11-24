@@ -1,4 +1,4 @@
-# 🚀 Spacecraft Orbit Simulator
+#  Spacecraft Orbit Simulator
 
 A Python simulation of orbital mechanics using Modified Equinoctial Elements.
 
